@@ -1,7 +1,7 @@
 # Applications of No-Collision Transportation Maps in Manifold Learning
 This repository provides the main code to implement the no-collison map algorithm from the paper "E. Negrini, L. Nurbekyan, Applications of No-Collision Transportation Maps in Manifold Learning."  <br /> 
  <br />  
-The code is organized as follows: <br /> 
+The code is contained in the code folder and organized as follows: <br /> 
 ### Functions folder: <br /> 
 contains the main functions to implement no-collision maps and the other methods we compare with. <br /> 
  <br /> 
